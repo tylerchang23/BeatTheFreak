@@ -49,7 +49,7 @@ Another aspect we looked at was the rest of the Bucks roster. I think a lot of G
 | Brook Lopez | 31.4% |
 | Khris Middleton | 41.5% |
 
-We can see that the Bucks starters are above average three point shooters with the exception of Brook Lopez (who is still an excellent shooter for a big man). This brings us to the dilemma that opponents constantly face when playing the Bucks. Do we beef up the defense on an animal in Giannis down low? Or should we take our chances in giving the rest of the Bucks a more open shot? Let's further visualize the Bucks using a kernel density plot that displays the frequency and location in which each player shoots.
+We can see that the Bucks starters are above average three point shooters with the exception of Brook Lopez (who is still an excellent shooter for a big man). This brings us to the dilemma that opponents constantly face when playing the Bucks. Do we beef up the defense on an animal in Giannis down low? Or should we take our chances in giving the rest of the Bucks a more open shot? Let's further visualize the Bucks using a kernel density plot that displays the frequency and location in which each player shoots. (Shoutout to [hkair](https://github.com/hkair/nba-shotcharts) for shot viz) 
 
 -insert kernel density plot 1-
 
