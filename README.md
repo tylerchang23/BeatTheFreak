@@ -76,12 +76,31 @@ Another intersting clustering we found was in regards to rebounding. Here we can
 
 I think it's clear that Giannis is a scoring machine. But are there any noticeable differences in his percision based on *where* he shoots?
 
-To investigate this, we look at how Giannis' shooting changes as he gets farther from the basket.
-
+To first investigate this, we look at how Giannis' shooting changes as he gets farther from the basket.
 
 | Location| % of Total Shots| % Made | % Miss |
-
-| ------------- |------------| |:-------------| |:-------------:| 
-
+| ------------- |-------------| --- | --- |
 | Down Low| 66.9% | 66.4% | 33.6% |
+| Mid-Range| 9.4% | 38.8% | 61.2% | 
+| Three| 23.7% | 30.4% | 69.6% |
+
+- insert shot chart 1 -
+
+- insert shot chart 2 -
+
+- insert shot chart 3 -
+
+There are a few observations we can see from this. **First, we can see that Giannis' accuracy obviously gets worse the farther away he is from the basket.** This is most likely due to him not beign able to use his athleticism as much from distance.
+
+Interestingly, **Giannis takes more threes than mid-range jumpers, even though he has a greater shooting percentage from mid-range**. From a coaching perspective (and possibly his perspective), if Giannis is taking a shot within the arc, that means he's attempting a basket worth two points. That being said, it makes more sense for Giannis to take a shot closer to the basket with a higher percentage since the point value would be the same (since he would be scoring more points in expectation).
+
+When we took a look at Giannis' jump shots from mid-range and beyond, we can see **he took twice the amount of shots from the left side than the right side**. Not only does he *attempt* more jump shots from the left side, **he also becomes less accurate when he shoots on the right when compared to the left**. This possibly could be due to him being right-handed and being less comfortable driving from the left side. 
+
+Can we see any of these tendencies in the games he lost? 
+
+- insert 12 shot charts here -
+
+We also found that **in the 9 of the 12 losses that Giannis played in, he attempted more three's than he does on average (per game). Of those threes, the vast majority were taken from the left**.
+
+***Multiple Linear Regression***
 
