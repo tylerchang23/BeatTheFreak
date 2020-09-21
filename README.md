@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As the NBA regular season comes to a close, fans across the globe wait eagerly for some exciting playoff action (shoutout Dame Dolla). Coming off an insane MVP season last year, Giannis Antetokounpo and the Milwaukee Bucks yet again sit at the top of the Eastern Conference. With Giannis in the running for another MVP title, it's no secret that they will be a force to be reckoned with in the post-season. Before the sudden shutdown, the Bucks had a whopping 53-12 record, in which Giannis only played in 9 of those losses.
+As the NBA regular season comes to a close, fans across the globe wait eagerly for some exciting playoff action. Coming off an insane MVP season last year, Giannis Antetokounpo and the Milwaukee Bucks yet again sit at the top of the Eastern Conference. With Giannis in the running for another MVP title, it's no secret that they will be a force to be reckoned with in the post-season. Before the sudden shutdown, the Bucks had a whopping 53-12 record, in which Giannis only played in 9 of those losses.
 
 It's obvious that Giannis is one of the most important factors to the Bucks' success, so what can you do to stop him? This project will focus on finding the strengths/weaknesses of the Bucks/Giannis, and what strategies could potentially be used to stop them.
 
