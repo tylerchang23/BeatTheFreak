@@ -84,9 +84,9 @@ To first investigate this, we look at how Giannis' shooting changes as he gets f
 
 ![alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/downlow_shotchart.png)
 
-[alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/midrange_shotchart.png)
+![alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/midrange_shotchart.png)
 
-[alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/three_shotchart.png)
+![alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/three_shotchart.png)
 
 There are a few observations we can see from this. **First, we can see that Giannis' accuracy obviously gets worse the farther away he is from the basket.** This is most likely due to him not beign able to use his athleticism as much from distance.
 
@@ -96,7 +96,7 @@ When we took a look at Giannis' jump shots from mid-range and beyond, we can see
 
 Can we see any of these tendencies in the games he lost? 
 
-[alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/opponents_shotchart.png)
+![alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/opponents_shotchart.png)
 
 We also found that **in the 9 of the 12 losses that Giannis played in, he attempted more three's than he does on average (per game). Of those threes, the vast majority were taken from the left**.
 
