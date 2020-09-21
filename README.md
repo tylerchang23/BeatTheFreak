@@ -32,7 +32,7 @@ There are a few different questions I want to answer in this analysis:
 
 To simply answer this question, we first looked at Giannis as an individual player. Giannis, a near 7 footer, uses his massive size to dominate the paint at the forward position. Not only does he possess the height, but he has also acquired more and more muscle year by year. 
 
-![alt text](github.com/tylerchang23/BeatTheFreak/blob/master/images/giannis_collage.jpg)
+![alt text](https://github.com/tylerchang23/BeatTheFreak/blob/master/images/giannis_collage.jpg)
 
 I think anyone that's watched Giannis play can confirm that his physique definitely gives him an advantage over other players. But how does he compare to other forwards in the league? 
 
